@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Forero  
 
-🎓 **Industrial & Systems Engineer | Master’s in Business Intelligence Analytics (Cum Laude)**  
+🎓 **Industrial & Systems Engineer | Master’s in Business Intelligence Analytics [Cum Laude](https://wallet.xertify.co/certificates/A2026E6AA007)  **  
 🤖 **AI Specialist | Data Scientist | Generative AI | Machine Learning | Optimization**  
 
 Welcome to my portfolio!  
