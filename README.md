@@ -58,7 +58,7 @@ My goal is to create solutions that combine **academic rigor** with **measurable
 ## 📫 Contact  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-fernando-forero-ortiz/)  
-- 📧 Email: *(add your email here)*  
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)  
+- 📧 Email: *gffo0417@gmail.com*  
+- 🐙 GitHub: [github.com/Gabriel-Forero](https://github.com/Gabriel-Forero)  
 
 ---
