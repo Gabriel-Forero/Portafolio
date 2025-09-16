@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Forero  
 
-🎓 **[Industrial]([https://wallet.xertify.co/certificates/A2026E6AA007](https://wallet.xertify.co/certificates/A2026E6AA001) & [Systems]([https://wallet.xertify.co/certificates/A2026E6AA004](https://wallet.xertify.co/certificates/A2026E6AA001) Engineer | Master’s in Business Intelligence Analytics [Cum Laude](https://wallet.xertify.co/certificates/A2026E6AA007)  **  
+🎓 **[Industrial](https://wallet.xertify.co/certificates/A2026E6AA001) & [Systems](https://wallet.xertify.co/certificates/A2026E6AA004) Engineer | Master’s in Business Intelligence Analytics [Cum Laude](https://wallet.xertify.co/certificates/A2026E6AA007)  **  
 🤖 **AI Specialist | Data Scientist | Generative AI | Machine Learning | Optimization**  
 
 Welcome to my portfolio!  
